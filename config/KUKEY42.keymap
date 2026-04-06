@@ -115,7 +115,7 @@
             bindings = <
 &kp LC(LS(TAB))  &kp LC(TAB)  &kp LG(E)  &kp LG(R)  &kp LC(T)                      &none     &kp PAGE_UP     &kp UP_ARROW  &kp PAGE_DOWN    &kp PRINTSCREEN
 &kp LC(A)        &kp LC(S)    &kp LG(D)  &kp LC(F)  &kp LC(G)  &trans      &trans  &kp HOME  &kp LEFT_ARROW  &kp DOWN      &kp RIGHT_ARROW  &kp END
-&kp LC(Z)        &kp LC(X)    &kp LC(C)  &kp LC(V)  &kp LC(B)  &trans      &trans  &mkp MB4  &mkp MB1        &mkp MB3      &mkp MB2         &kp INSERT
+&kp LC(Z)        &kp LC(X)    &kp LC(C)  &kp LC(V)  &kp LC(B)  &trans      &trans  &none     &none           &none         &none            &kp INSERT
 &trans           &trans       &trans     &trans     &trans     &trans      &trans  &trans                                                   &trans
             >;
 
