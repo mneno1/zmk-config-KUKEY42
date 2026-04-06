@@ -88,7 +88,7 @@
 &kp LCTRL  &kp LEFT_ALT  &kp LEFT_WIN  &mo 6  &lt 4 SPACE  &lt 2 DELETE        &lt 1 BACKSPACE  &lt 3 ENTER                             &kp RIGHT_SHIFT
             >;
 
-            sensor-bindings = <&WheelScroll SCRL_UP SCRL_DOWN>;
+            sensor-bindings = <&WheelScroll SCRL_DOWN SCRL_UP>;
         };
 
         Num_Layer {
@@ -99,7 +99,7 @@
 &trans        &trans        &trans                &trans                 &trans  &trans      &trans  &trans                                                           &trans
             >;
 
-            sensor-bindings = <&WheelScroll SCRL_RIGHT SCRL_LEFT>;
+            sensor-bindings = <&WheelScroll SCRL_LEFT SCRL_RIGHT>;
         };
 
         Function_Layer {
